@@ -1,0 +1,3 @@
+What is Dart?
+-> Language used to make multi-platform applications
+-> Dart is a statically typed Language
