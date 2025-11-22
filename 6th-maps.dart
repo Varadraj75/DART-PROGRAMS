@@ -9,8 +9,13 @@ void main() {
   };
   planets[1] = "Random";
   planets[6] = "Uranus";
-  print(planets);
+
   print(planets[1]);
-//   it will tell that key is there in the map or not
+  //   it will tell that key is there in the map or not
   print(planets.containsKey(1));
+  print(planets.containsValue("Mars"));
+  print(planets.remove(3));
+  print(planets.keys);
+  print(planets.values);
+  print(planets);
 }
