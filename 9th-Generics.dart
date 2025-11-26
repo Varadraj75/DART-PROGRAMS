@@ -5,9 +5,9 @@ void main() {
   print(pizzass.title);
   print(noodles.title);
   print(pizza.title);
-  var foods = Collection<MenuItem>('Menu Items', ["noodles", "pizza", "roast", "kebab"]);
-  var random = foods.randomItem();
-  print(random);
+  // var foods = Collection<MenuItem>('Menu Items', ["noodles", "pizza", "roast", "kebab"]);
+  // var random = foods.randomItem();
+  // print(random);
 }
 
 class MenuItem {
